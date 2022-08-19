@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katie</h1>
 <h3 align="center">I'm a recent college graduate of software development, and I'm passionate about building technology and solving problems.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
